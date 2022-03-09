@@ -1,14 +1,14 @@
-#Sections:
+## Sections:
 
 1.) Finance\
 2.) Marketing\
 3.) Operations\
 .\
 .\
-.\
+.
 
 
-#Finance
+# Finance
 
 | Subject | Definition | Notes | Additional Resources |
 | :---:         |     :---      |          :--- | :--- |
