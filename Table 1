@@ -1,0 +1,12 @@
+1) a. Name – sex
+   b. Definition – Sex of a person
+   c. Universe – US people in 2014
+   d. Type – basic
+   e. Value domain
+     i. Name – sex codes
+     ii. Type – enumerated
+     iii. Permissible values
+       1. <m, Male sex>
+       2. <f, Female sex>
+       3. <o, Other – unspecified>
+     iv. Datatype – nominal 
