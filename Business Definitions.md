@@ -1,4 +1,4 @@
-##Sections:
+#Sections:
 
 1.) Finance\
 2.) Marketing\
@@ -6,7 +6,7 @@
 .\
 .\
 .\
-\
+
 
 #Finance
 
