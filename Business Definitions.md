@@ -1,12 +1,12 @@
-##Sections:\
+##Sections:
 
-1.) Finance/
-2.) Marketing/
-3.) Operations/
-./
-./
-./
-//
+1.) Finance\
+2.) Marketing\
+3.) Operations\
+.\
+.\
+.\
+\\
 
 #Finance
 
@@ -16,6 +16,6 @@
 | Revenue     | Formula       | How it is different to Sales      | ... |
 
 
-./
-./
-./
+.\
+.\
+.\
