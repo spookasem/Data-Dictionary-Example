@@ -1,4 +1,4 @@
-## Data-Dictionary-Example
+# Data-Dictionary-Example
 
 We can have two dictionaries: 
 
@@ -7,7 +7,7 @@ We can have two dictionaries:
 3.) The database dictionary where we keep categories for the DW and (potentially) other databases.
 
 
-# Quick Links to non-DW folders
+## Quick Links to non-DW folders
 
 
-# Quick Links To DW folders
+## Quick Links To DW folders
